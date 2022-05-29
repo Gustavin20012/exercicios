@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(53, 49, 49);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    text-align: center;
+    color: white;
+
+    padding: 20px;
+
+    margin: auto;
+    
+}
+
+p{
+    color: white;
+}
+
+.img{
+    height: auto;
+    width: 455px;
+
+    margin: auto;
+}
+
+a:link{
+    text-decoration: none darkblue;
+}
+
+a:visited{
+    color: rgb(255, 255, 255);
+}
+
+a:hover{
+    color: darkgrey;
+    text-decoration: none;
+}
+
+a:active{
+    color: blue;
+}
+
